@@ -48,8 +48,8 @@ A **voice-controlled AI virtual assistant** that listens, responds, and performs
 Feel free to submit **pull requests** or report **issues** to improve this assistant!  
 
 ## **Author**  
-👨‍💻 Developed by **Kushagra Singh Chandel**  
-📌 **GitHub**: [Kushagra Chandel](https://github.com/Kushagra-Chandel)  
+👨‍💻 Developed by **Adarsh Tripathi**  
+📌 **GitHub**: [Adarsh Tripathi](https://github.com/adarsh-tripathi1)  
 
 ---
 "# Chaitanya---Virtual-AI-assistant" 
